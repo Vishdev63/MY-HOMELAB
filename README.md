@@ -2,7 +2,7 @@
 "Documenting my DevOps homelab setup journey with hands-on projects using tools like Ubuntu, Docker, Kubernetes, Terraform, and CI/CD pipelines."
 # DevOps Homelab Journey 🚀
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04%LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-7.1.4-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 A documented journey of learning DevOps practices using a homelab setup.
